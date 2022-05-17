@@ -38,6 +38,17 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 #### Graphical Abstract
 ![Graphical abstract](Graphical_Abstract.jpg "Graphical abstract")
 
+| code | Description | code | Description |
+| ---- | ----------- | ---- | ----------- |
+| __Ac | cooling only air-conditioning | Gs__ | ground-source or combustion heating |
+| __Ev | direct evaporative cooling | GsAc | combustion heater with air-conditioning or reverse-cycle ground-source|
+| __Vt | forced ventilation | GsEv | combustion heater with direct evaporative cooler |
+| ____ | entirely passive comfort would be sufficient | GsVt | combustion heater with forced ventilation cooler |
+| Hp__ | air-source heat pump (ASHP) | Hu__ | humidification only |
+| HpVt | ASHP and forced ventilation cooling | HuVt | humidifier and forced ventilation cooling |
+| HpEv | ASHP and direct evaporative cooler | HuEv | humidifier and direct evaporative cooler |
+| HpAc | reverse-cyle air-source year-round | HuAc | humidifier and air-conditioner |
+
 
 ##### Abbreviations
 YsD = Yellow-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 29.4°C
