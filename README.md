@@ -56,7 +56,5 @@ Developing access to a version of “RESULTSout_1987-2020.csv” with psychromet
 | abv | explanation |
 | --- | --- |
 | YsD | Yellow-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 29.4°C |
-
 | WsD | White-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 25.6°C |
-
 | DXD | Average days per annum that direct expansion air-conditioning is desirable based upon mean daily outdoor conditions |
