@@ -40,14 +40,14 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 
 | code | Description | code | Description |
 | ---- | ----------- | ---- | ----------- |
-| __Ac | cooling only air-conditioning | Gs__ | ground-source or combustion heating |
-| __Ev | direct evaporative cooling | GsAc | combustion heater with air-conditioning or reverse-cycle ground-source|
-| __Vt | forced ventilation | GsEv | combustion heater with direct evaporative cooler |
-| ____ | entirely passive comfort would be sufficient | GsVt | combustion heater with forced ventilation cooler |
+| __Ac | cooling only air-conditioning | GsVt | combustion heater AND forced ventilation cooling |
+| __Ev | direct evaporative cooling | GsAc | combustion heater AND air-conditioning (or reverse-cycle ground-source)|
+| __Vt | forced ventilation | GsEv | combustion heater AND direct evaporative cooler |
+| ____ | entirely passive comfort would be sufficient | Gs__ | ground-source or combustion heating |
 | Hp__ | air-source heat pump (ASHP) | Hu__ | humidification only |
-| HpVt | ASHP and forced ventilation cooling | HuVt | humidifier and forced ventilation cooling |
-| HpEv | ASHP and direct evaporative cooler | HuEv | humidifier and direct evaporative cooler |
-| HpAc | reverse-cyle air-source year-round | HuAc | humidifier and air-conditioner |
+| HpVt | ASHP AND forced ventilation cooling | HuVt | humidifier AND forced ventilation cooling |
+| HpEv | ASHP AND direct evaporative cooler | HuEv | humidifier AND direct evaporative cooler |
+| HpAc | reverse-cyle air-source year-round | HuAc | humidifier AND air-conditioner |
 
 
 ##### Abbreviations
