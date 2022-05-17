@@ -40,9 +40,9 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 
 | code | Description | code | Description |
 | ---- | ----------- | ---- | ----------- |
-| __Ac | cooling only air-conditioning | GsVt | combustion heater AND forced ventilation cooling |
-| __Ev | direct evaporative cooling | GsAc | combustion heater AND air-conditioning (or reverse-cycle ground-source)|
-| __Vt | forced ventilation | GsEv | combustion heater AND direct evaporative cooler |
+| __Ac | cooling only air-conditioning | GsAc | combustion heater AND air-conditioning (or reverse-cycle ground-source)|
+| __Ev | direct evaporative cooling | GsEv | combustion heater AND direct evaporative cooler |
+| __Vt | forced ventilation | GsVt | combustion heater AND forced ventilation cooling |
 | ____ | entirely passive comfort would be sufficient | Gs__ | ground-source or combustion heating |
 | Hp__ | air-source heat pump (ASHP) | Hu__ | humidification only |
 | HpVt | ASHP AND forced ventilation cooling | HuVt | humidifier AND forced ventilation cooling |
