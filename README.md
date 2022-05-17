@@ -13,7 +13,7 @@ Climatic Information Technical Committee TC4.2, American Society of Heating, Ref
 Received 1 February 2022, Revised 22 March 2022, Accepted 7 April 2022, Available online 9 April 2022, Version of Record 29 April 2022.
 Energy and Buildings Volume 266, 1 July 2022, 112088
 
-https://doi.org/10.1016/j.enbuild.2022.112088 
+[DOI 10.1016/j.enbuild.2022.112088](https://doi.org/10.1016/j.enbuild.2022.112088)
 
 • Access to air-conditioned shelter was often indispensable between 20°S and 39°N and below 500 m.
 
