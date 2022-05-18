@@ -15,6 +15,22 @@ Energy and Buildings Volume 266, 1 July 2022, 112088
 
 [DOI 10.1016/j.enbuild.2022.112088](https://doi.org/10.1016/j.enbuild.2022.112088)
 
+#### Graphical Abstract
+![Graphical abstract](Graphical_Abstract.jpg "Graphical abstract")
+
+| code | Description | code | Description |
+| ---- | ----------- | ---- | ----------- |
+| __Ac | cooling only air-conditioning | GsAc | combustion heater AND air-conditioning (or reverse-cycle ground-source)|
+| __Ev | direct evaporative cooling | GsEv | combustion heater AND direct evaporative cooler |
+| __Vt | forced ventilation | GsVt | combustion heater AND forced ventilation cooling |
+| ____ | entirely passive comfort would be sufficient | Gs__ | ground-source or combustion heating |
+| Hp__ | air-source heat pump (ASHP) | Hu__ | humidification only |
+| HpVt | ASHP AND forced ventilation cooling | HuVt | humidifier AND forced ventilation cooling |
+| HpEv | ASHP AND direct evaporative cooler | HuEv | humidifier AND direct evaporative cooler |
+| HpAc | reverse-cyle air-source year-round | HuAc | humidifier AND air-conditioner |
+
+You may find access to a version of “RESULTSout_1987-2020.csv” with a psychrometric chart of the places you are interested in >[right here](https://bioclimatic.github.io/predilection/RESULTSout_1987-2020_psych.htm)<.  There are n=15,293 psychrometric charts, while locations without humidity observations could not be plotted, yielding a 404 error.
+
 #### Highlights
 
 • Access to air-conditioned shelter was often indispensable between 20°S and 39°N and below 500 m.
@@ -31,28 +47,11 @@ Energy and Buildings Volume 266, 1 July 2022, 112088
 
 • While almost 65% dwelt where cooling demand increased.
 
-
 #### Abstract
 Air-conditioning relies on electricity that isn’t ubiquitous while policies encourage passive alternatives —yet cooling really should respond to occupants’ distress. Here I show where passive measures have been sufficient for comfort and identify local predilections for rebalancing demand between heating and cooling —apportioned by population neighboring meteorological stations. Access to air-conditioned shelter has been occasionally indispensable for 21% of population —generally between 20°S and 39°N and below 500 m elevation. Meanwhile reverse-cycle air-source heat-pump/air-conditioning has been a reasonable expectation for 72% of the population. Refocusing on 9493 locations with ≥ 14 years of daily observations, stationary heating and cooling demands were found where 19% of population dwelt. Otherwise, summer cooling demand generally increased while winter heating demand decreased —except some mid-latitude continental areas demonstrated a predilection for both heating and cooling demands to increase. Over 30% of population dwelt where heating demand increased, while almost 65% dwelt where cooling demand increased. To estimate which HVAC package is locally appropriate, refer to nearby comparable meteorological stations detailed in the file “RESULTSout_1987-2020.csv” (n = 16,582 records) that can be downloaded at [University of Leeds](https://doi.org/10.5518/967) but beware of microclimatic variability in urban heat islands.
 
-You may find access to a version of “RESULTSout_1987-2020.csv” with psychrometric charts [right here](https://bioclimatic.github.io/predilection/RESULTSout_1987-2020_psych.htm) there are n=15,293 psychrometric charts, while locations without humidity observations could not be plotted, yielding a 404 error.
-
-#### Graphical Abstract
-![Graphical abstract](Graphical_Abstract.jpg "Graphical abstract")
-
-| code | Description | code | Description |
-| ---- | ----------- | ---- | ----------- |
-| __Ac | cooling only air-conditioning | GsAc | combustion heater AND air-conditioning (or reverse-cycle ground-source)|
-| __Ev | direct evaporative cooling | GsEv | combustion heater AND direct evaporative cooler |
-| __Vt | forced ventilation | GsVt | combustion heater AND forced ventilation cooling |
-| ____ | entirely passive comfort would be sufficient | Gs__ | ground-source or combustion heating |
-| Hp__ | air-source heat pump (ASHP) | Hu__ | humidification only |
-| HpVt | ASHP AND forced ventilation cooling | HuVt | humidifier AND forced ventilation cooling |
-| HpEv | ASHP AND direct evaporative cooler | HuEv | humidifier AND direct evaporative cooler |
-| HpAc | reverse-cyle air-source year-round | HuAc | humidifier AND air-conditioner |
-
-
 ##### Abbreviations
+
 | abv | explanation |
 | --- | --- |
 | YsD | Yellow-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 29.4°C |
