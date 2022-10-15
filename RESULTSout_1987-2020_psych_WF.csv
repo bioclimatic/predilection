@@ -1,0 +1,3 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/917530-99999_fig2.png,917530,99999,0,__Ac,101000,19.4,55.5,32,[,0,1193,7456,],2,11,16,22,30,[,267,0,],32,359,[,0,0,0,0,38,0,321,],359,359,-13.238,-176.199,24,1987,2020,WF,,WALLIS,,917530-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/917540-99999_fig2.png,917540,99999,0,__Ac,100791,19.4,55.6,29,[,0,1058,6783,],3,11,17,22,31,[,206,2,],22,355,[,0,0,0,0,78,0,277,],354,355,-14.317,-178.117,36,1987,2019,WF,,FUTUNA ISL/MAOPOOPO,,917540-99999_fig2.png
