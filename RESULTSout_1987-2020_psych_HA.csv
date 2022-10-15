@@ -1,0 +1,3 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/784390-99999_fig2.png,784390,99999,0,__Ac,100879,19.4,55.6,27,[,0,1654,4656,],6,14,22,26,35,[,190,9,],8,312,[,0,0,0,0,27,0,285,],312,311,18.58,-72.293,37,1987,2020,HA,,TOUSSAINT LOUVERTURE INTL,,784390-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/784395-99999_fig2.png,784395,99999,3,__Ac,100869,19.4,55.6,2,[,0,116,415,],0,1,2,3,3,[,19,5,],12,28,[,0,0,0,0,8,0,20,],28,28,18.567,-72.317,38,1997,1997,HA,,CAMP CANARGUS,,784395-99999_fig2.png

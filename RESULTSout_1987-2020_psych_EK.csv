@@ -1,0 +1,3 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/648100-99999_fig2.png,648100,99999,3,__Ac,100898,19.4,55.5,20,[,0,452,3530,],0,4,8,11,17,[,105,1,],27,185,[,0,0,0,0,51,0,134,],183,185,3.755,8.709,23,2006,2020,EK,,MALABO,,648100-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/648200-99999_fig2.png,648200,99999,1,__Ac,101163,19.4,55.5,13,[,0,1014,7264,],1,9,15,20,27,[,221,1,],11,340,[,0,0,0,0,54,0,286,],339,340,1.9,9.8,8,2008,2020,EK,,BATA (RIO MUNI),,648200-99999_fig2.png

@@ -1,0 +1,2 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/789060-99999_fig2.png,789060,99999,1,__Ac,101365,19.4,55.4,18,[,0,1096,4116,],3,10,18,22,29,[,143,0,],15,285,[,0,0,0,0,73,0,212,],284,285,15.337,-61.392,4,1993,2008,DO,,CANEFIELD,,789060-99999_fig2.png

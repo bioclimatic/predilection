@@ -1,0 +1,4 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/013005-99999_fig2.png,13005,99999,3,Hp__,99919,19.4,55.9,14,[,801,0,0,],0,0,0,0,0,[,0,0,],26,82,[,8,74,0,0,0,0,0,],0,0,61.25,1.85,118,1987,2016,FO,,STATFJORD OIL PLATFORM HELIPO,,013005-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/060100-99999_fig2.png,60100,99999,5,Gs__,100304,19.4,55.8,28,[,3646,0,0,],0,0,0,0,0,[,0,0,],31,318,[,78,240,0,0,0,0,0,],0,0,62.064,-7.277,85,1992,2020,FO,,VAGAR,,060100-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/060160-99999_fig2.png,60160,99999,4,Gs__,101073,19.4,55.5,10,[,2947,0,1,],4,13,17,22,24,[,0,0,],7,348,[,56,276,0,14,2,0,0,],0,2,55.5,7.867,21,2010,2020,FO,,HORNS REV A,,060160-99999_fig2.png
