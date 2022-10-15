@@ -1,0 +1,4 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/889000-99999_fig2.png,889000,99999,7,Gs__,99884,19.4,55.9,10,[,5359,0,0,],0,0,0,0,0,[,0,0,],9,319,[,272,47,0,0,0,0,0,],0,0,-54,-38.05,2,2004,2020,SX,,BIRD ISLAND,,889000-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/889020-99999_fig2.png,889020,99999,7,Gs__,101205,19.4,55.4,2,[,5436,0,0,],0,NaN,NaN,NaN,NaN,[,0,0,],1,349,[,229,120,0,0,0,0,0,],0,0,-54.267,-36.5,10,1989,1989,SX,,GRYTVIKEN/FLAT BLUF,,889020-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/889030-99999_fig2.png,889030,99999,6,Gs__,99720,19.4,56,20,[,4450,0,0,],0,0,0,0,0,[,0,0,],17,280,[,165,115,0,0,0,0,0,],0,0,-54.283,-36.5,3,1987,2020,SX,,GRYTVIKEN,,889030-99999_fig2.png

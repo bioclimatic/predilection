@@ -1,0 +1,2 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/910660-99999_fig2.png,910660,99999,2,HpAc,101280,19.4,55.4,4,[,37,320,2373,],3,14,18,22,30,[,16,0,],3,362,[,0,34,0,117,155,0,55,],140,210,28.217,-177.367,3,2001,2004,MQ,HI,MIDWAY ISLAND,,910660-99999_fig2.png

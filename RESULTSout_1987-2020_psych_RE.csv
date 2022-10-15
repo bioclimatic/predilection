@@ -1,0 +1,3 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/619800-99999_fig2.png,619800,99999,1,__Ac,101030,19.4,55.5,32,[,2,379,2161,],4,13,20,26,35,[,26,0,],32,360,[,0,1,0,131,180,0,48,],191,225,-20.887,55.51,20,1987,2020,RE,,ST DENIS GILLOT,,619800-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/619840-99999_fig2.png,619840,99999,2,__Ac,101109,19.4,55.5,20,[,13,453,1704,],4,10,14,16,22,[,30,0,],26,240,[,0,3,0,69,87,0,81,],155,155,-21.321,55.425,18,2001,2020,RE,,ST PIERRE PIERREFONDS,,619840-99999_fig2.png

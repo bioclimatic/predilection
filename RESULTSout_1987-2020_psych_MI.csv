@@ -1,0 +1,4 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/674890-99999_fig2.png,674890,99999,3,Hp__,87137,19.4,61.4,19,[,51,9,4,],0,5,6,7,9,[,0,0,],12,77,[,0,24,0,43,9,1,0,],7,4,-11.445,34.012,1254,1987,1990,MI,,MZUZU,,674890-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/675860-99999_fig2.png,675860,99999,3,HpVt,87066,19.4,61.4,22,[,119,39,24,],2,14,15,21,26,[,0,0,],13,223,[,0,54,0,129,36,4,0,],26,18,-13.789,33.781,1261,1987,2012,MI,,LILONGWE INTL,,675860-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/676930-99999_fig2.png,676930,99999,3,HpAc,92313,19.4,59,28,[,15,292,580,],3,10,17,22,34,[,2,0,],15,233,[,0,11,0,83,100,16,24,],113,96,-15.679,34.974,779,1987,2019,MI,,CHILEKA INTL,,676930-99999_fig2.png

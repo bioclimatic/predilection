@@ -1,0 +1,2 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/450110-99999_fig2.png,450110,99999,2,HpAc,101250,19.4,55.4,34,[,269,676,4179,],1,11,16,22,34,[,122,14,],34,363,[,0,81,0,58,80,0,144,],188,223,22.15,113.592,6,1987,2020,MC,,MACAU INTL,,450110-99999_fig2.png

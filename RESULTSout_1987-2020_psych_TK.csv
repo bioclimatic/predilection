@@ -1,0 +1,3 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/781180-99999_fig2.png,781180,99999,2,__Ac,101205,19.4,55.4,11,[,0,935,3475,],3,14,17,19,26,[,83,0,],8,250,[,0,0,0,3,91,0,156,],244,241,21.45,-71.15,10,2012,2020,TK,,TURKS ISLAND,,781180-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/787421-99999_fig2.png,787421,99999,0,__Ac,101270,19.4,55.4,14,[,0,1355,5970,],4,15,20,24,34,[,162,2,],10,355,[,0,0,0,7,116,0,232,],342,344,21.774,-72.266,5,2009,2020,TK,,PROVIDENCIALES,,787421-99999_fig2.png

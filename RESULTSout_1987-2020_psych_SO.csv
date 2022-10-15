@@ -1,0 +1,4 @@
+URL,WMOstn,WBANo,Acz,HVAC,meanPa,WBref,hBASE,dpy,[,avHDD,avCDD,avChD,],low,min,ave,max,best,[,WsD,YsD,],yrs,dys,[,Icy,Hea,Hum,Pas,Vtn,EvC,DX,],24Cd,67Fd,latitude,longitude,elev,base,stop,CC,ST,Placename,,psychrometric_chart_image
+https://bioclimatic.github.io/predilection/psych/631700-99999_fig2.png,631700,99999,3,__Vt,86144,19.4,61.9,13,[,3,54,8,],1,1,4,5,5,[,0,0,],24,43,[,0,3,0,15,20,4,2,],26,4,9.518,44.089,1348,2017,2019,SO,,EGAL INTL,,631700-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/632100-99999_fig2.png,632100,99999,3,__Ac,101301,19.4,55.4,9,[,0,166,498,],0,2,2,2,3,[,16,8,],26,27,[,0,0,0,0,7,0,20,],27,27,11.283,49.183,2,2018,2019,SO,,BOSASO,,632100-99999_fig2.png
+https://bioclimatic.github.io/predilection/psych/632600-99999_fig2.png,632600,99999,3,__Ac,101217,19.4,55.4,9,[,0,258,1051,],1,3,4,4,6,[,22,0,],30,58,[,0,0,0,0,7,0,51,],58,58,2.033,45.35,9,1989,2020,SO,,MOGADISHU,,632600-99999_fig2.png
