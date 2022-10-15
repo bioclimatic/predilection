@@ -62,3 +62,7 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 | YsD | Yellow-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 29.4°C |
 | WsD | White-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 25.6°C |
 | DXD | Average days per annum that direct expansion air-conditioning is desirable based upon mean daily outdoor conditions |
+
+##### link
+
+check this link >[right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AA.htm)<
