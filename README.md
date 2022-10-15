@@ -34,7 +34,7 @@ Corresponding author <e.peterson@leeds.ac.uk>
 You may find access to a version of “RESULTSout_1987-2020.csv” with a psychrometric chart of the places you are interested in >[right here](https://bioclimatic.github.io/predilection/RESULTSout_1987-2020_psych.htm)<.  There are n=15,293 psychrometric charts, while locations without humidity observations could not be plotted, yielding a 404 error.  
 
 #### Disclaimer
-The information or advise contained in this website is intended for use only by persons who have had adequate technical training in the field of heating, ventilation, and air conditioning (HVAC) system design. This website has been compiled as an aid only and the information or advice should be verified before it is put to use by any person. The user should also establish the applicability of the information or advice in relation to any specific circumstances. While the information or advise is believed to be correct, the author Eric Laurentius Peterson, and his employer The University of Leeds, disclaim responsibility for any inaccuracies contained within the document including those due to any negligence in the preparation and publication of this website. Those using this website are advised that it was developed as a repository of supporting on-line material in relation to the paper published in the peer-reviewed journal Energy and Buildings. Users of this website are asked to read the paper, [DOI 10.1016/j.enbuild.2022.112088](https://doi.org/10.1016/j.enbuild.2022.112088).  Please email if you have difficulties <e.peterson@leeds.ac.uk> or concerns.
+The information or advise contained in this website is intended for use only by persons who have had adequate technical training in the field of heating, ventilation, and air conditioning (HVAC) system design. This website has been compiled as an aid only and the information or advice should be verified before it is put to use by any person. The user should also establish the applicability of the information or advice in relation to any specific circumstances. While the information or advise is believed to be correct, the author Eric Laurentius Peterson, and his employer The University of Leeds, disclaim responsibility for any inaccuracies contained within the document including those due to any negligence in the preparation and publication of this website. Those using this website are advised that it was developed as a repository of supporting on-line material in relation to the paper published in the peer-reviewed journal Energy and Buildings. Users of this website are asked to read the paper, [DOI 10.1016/j.enbuild.2022.112088](https://doi.org/10.1016/j.enbuild.2022.112088).  Please email  <e.peterson@leeds.ac.uk> if you have difficulties or concerns.
 
 #### Highlights
 
@@ -65,4 +65,7 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 
 ##### link
 
-check this link >[right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AA.htm)<
+check this link >[AA right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AA.htm)<
+                >[AC right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AC.htm)<
+                >[AE right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AE.htm)<
+                >[AF right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AF.htm)<
